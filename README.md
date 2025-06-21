@@ -82,4 +82,14 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-> ✨ Built by **Atharva Mahajan**
+### ✨ Built by **Atharva Mahajan**
+
+---
+
+## 🔒 Note on Access
+
+This is a **showcase repository**. The full source code is hosted in a **private repository** to prevent misuse and ensure originality.
+
+If you're a recruiter or collaborator and would like access, feel free to [reach out](mailto:atharvamahajan2004@gmail.com).
+
+
