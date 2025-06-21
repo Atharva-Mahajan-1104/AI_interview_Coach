@@ -12,7 +12,7 @@ The Home Page is where first impressions are made — and this one delivers.
 > A landing page that doesn’t just welcome — it inspires action.
 
 
-![Practice Page Preview](https://your-image-link.com/practice-page.png)
+![Practice Page Preview](Assets/practicepage.png)
 
 ## 🧠 Practice Page
 
@@ -28,13 +28,14 @@ Simplicity meets precision.
 
 > Designed for flow — minimal clicks, maximum learning.
 
-![Answer Analysis Page](https://your-image-link.com/answer-analysis.png)
+![Answer Analysis Page](Assets/practisepagewithquestion.png)
 
 ## 🧠 Answer Analysis
 
 Where preparation turns into precision.
 
 After the user submits their answer — whether typed or spoken — **AI Coach** breaks it down using multiple intelligent criteria:
+![Answer Analysis Page](Assets/detailedanalysis.png)
 
 - 📊 **Confidence Score** – Estimates how confidently the user answered.
 - 🧠 **Concepts Covered** – Lists all the key concepts you successfully addressed.
@@ -46,8 +47,8 @@ After the user submits their answer — whether typed or spoken — **AI Coach**
 > It's not just evaluation — it's evolution.
 
 
-  ![Dashboard Page](https://your-image-link.com/dashboard.png)
-
+  ![Dashboard Page](Assets/dashboard.png)
+  ![Dashboard Page](Assets/dashboard2.png)
 ## 📊 Dashboard
 
 Your progress — visualized with precision.
@@ -63,7 +64,7 @@ The **AI Coach Dashboard** is your personal command center to monitor and optimi
 
 > From effort to evolution — the dashboard makes your growth visible.
 
-![Resources Page](https://your-image-link.com/resources.png)
+![Resources Page](Assets/resourcespage.png)
 
 ## 📚 Resources
 
