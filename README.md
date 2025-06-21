@@ -47,8 +47,8 @@ Dive deeper into the user journey:
 |---------------|----------------------------------|
 | Frontend      | React + Vite + Tailwind CSS      |
 | AI Layer      | OpenAI API + NLP Logic           |
-| Backend (Optional) | Node.js + Express             |
-| Tools         | Netlify, GitHub, Postman, Figma  |
+| Backend  | Node.js + Express             |
+
 
 ---
 
