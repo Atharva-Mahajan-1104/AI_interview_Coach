@@ -1,4 +1,4 @@
-![AI Coach Banner](https://your-image-link.com/banner.png)
+![AI Coach Banner](Assets/aicoach.png)
 
 ## 🏠 Home Page
 
