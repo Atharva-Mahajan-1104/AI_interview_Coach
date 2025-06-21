@@ -82,7 +82,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-### ✨ Built by **Atharva Mahajan**
+## ✨ Built by **Atharva Mahajan**
 
 ---
 
